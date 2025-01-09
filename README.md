@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabinmanandhar&label=Profile%20views&color=0e75b6&style=flat" alt="kabinmanandhar" /> </p>
 
-- 🔭 I’m currently working on **establishing a brand and business around my skills**
-
-- 🌱 I’m currently learning **SwiftUI, Kotlin**
-
-- 🤝 I’m looking for help with **remote jobs**
+- 🔭 I’m currently working on **creating mobile applications and upscaling my skillsets**
+- 🌱 I’m currently learning **native mobile application development**
 
 - 👨‍💻 All of my projects are available at [www.kabinmanandhar.com.np](www.kabinmanandhar.com.np)
 
